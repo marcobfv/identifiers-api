@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "IdentifiersApi2",
+            "location": "Brazil South"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "IdentifiersApi2_db",
+                "serverName": "adzz6olpfm",
+                "user": "marco.bfv",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "Brazil South"
+            }
+        ]
+    }
+}
